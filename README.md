@@ -57,7 +57,7 @@ e recursos.
 -Custos: Esteja atento aos custos associados à execução da máquina virtual. Desligar a VM quando não estiver em uso pode ajudar a reduzir os custos.
 
 🖼️ Capturas de Tela
- Uma pasta /images foi criada para armazenar capturas de tela relevantes do processo de criação e configuração da VM no portal do Azure. As imagens estão nomeadas de forma descritiva para facilitar a compreensão.
+ várias capturas de tela relevantes do processo de criação e configuração da VM no portal do Azure. As imagens estão nomeadas de forma descritiva para facilitar a compreensão.
 
 🎓 Conclusão
 Este desafio proporcionou uma experiência prática valiosa na criação e configuração de uma máquina virtual no Azure. A documentação detalhada neste repositório reflete o processo realizado, as configurações importantes e as dicas relevantes para futuras implementações.
